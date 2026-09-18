@@ -3,7 +3,7 @@
 # Messy code – not modular, not reusable, hard to maintain
 import random
 
-
+# double check
 # Number Generation
 def generate_numbers():
     return [random.randint(1, 100) for _ in range(10)]
